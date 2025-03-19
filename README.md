@@ -29,3 +29,6 @@ Objetivo, usar a argola e atravessar uma das espirais desde cima para baixo e su
 6 - Perdes o Jogo sempre que a Luz acender.
 
 Boa Sorte :) 
+
+
+![esquema espiral eletrica](energiaeletrica.png)
