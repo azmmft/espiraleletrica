@@ -8,14 +8,14 @@ Criamos um jogo "Espiral Eletrica"
 
 Componentes:
 
->Fonte de alimentação (pilha) 9v
->lâmpada (recliclada apartir das luzes de natal)
->interruptor de um computador antigo
->Fios de outros equipamentos eletrônicos
->Arames de ferro (argola)
->Espirais de ferro do batedor de bolos
->Estrutura de madeira (pedaços de um beliche de madeira)
->fita adesiva isoladora
+>Fonte de alimentação (pilha) 9v  
+>lâmpada (recliclada apartir das luzes de natal)  
+>interruptor de um computador antigo  
+>Fios de outros equipamentos eletrônicos  
+>Arames de ferro (argola)  
+>Espirais de ferro do batedor de bolos  
+>Estrutura de madeira (pedaços de um beliche de madeira)  
+>fita adesiva isoladora  
 
 Como jogar:
 
