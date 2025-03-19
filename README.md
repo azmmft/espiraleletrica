@@ -6,6 +6,9 @@ Criar um artefacto, que recrie a conservaçao de energia sempre haja uma interve
 
 Criamos um jogo "Espiral Eletrica"
 
+Objectivo, usar a argola e atravessar uma das espirais desde cima ate baixo e subir novamente sem tocar.  
+
+
 Componentes:
 
 >Fonte de alimentação (pilha) 9v  
