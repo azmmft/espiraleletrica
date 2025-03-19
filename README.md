@@ -19,9 +19,11 @@ Componentes:
 
 Como jogar:
 
-1 - Ligar o Circuito
-2 - Segurar a argola
-3 - Escollher uma das espirais
-4 - Passar as curvas da espiral sem tocar com a argola
-5 - Todas as vezes que tocar na espiral com a argola a lampada acende
-6 - Perdes o Jogo sempre que a Luz acender
+1 - Ligar o Circuito  
+2 - Segurar a argola  
+3 - Escollher uma das espirais  
+4 - Passar as curvas da espiral sem tocar com a argola  
+5 - Todas as vezes que tocar na espiral com a argola a lampada acende  
+6 - Perdes o Jogo sempre que a Luz acender  
+
+Boa Sorte :) 
