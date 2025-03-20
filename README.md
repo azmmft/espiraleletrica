@@ -31,4 +31,6 @@ Objetivo, usar a argola e atravessar uma das espirais desde cima para baixo e su
 Boa Sorte :) 
 
 
-![esquema espiral eletrica](energiaeletrica.png)
+![esquema espiral eletrica](energiaeletrica.png)  
+
+![foto post done](IMG-20250320-WA0020.jpg)
